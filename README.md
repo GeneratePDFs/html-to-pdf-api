@@ -84,7 +84,8 @@ Available SDKs:
 
 - PHP SDK
 - Laravel SDK which extends the PHP SDK
-- Node SDK  
+- Node SDK
+- Ruby SDK
 
 Each SDK includes helper methods for sending HTML, checking responses and saving the resulting PDF.
 
