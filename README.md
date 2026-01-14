@@ -82,10 +82,11 @@ GeneratePDFs.com provides SDKs to make the API integration easier.
 
 Available SDKs:
 
-- PHP SDK
-- Laravel SDK which extends the PHP SDK
-- Node SDK
-- Ruby SDK
+- [PHP SDK](https://github.com/generatepdfs/php-sdk)
+- [Laravel SDK](https://github.com/generatepdfs/laravel-sdk) which extends the PHP SDK
+- [Node SDK](https://github.com/generatepdfs/node-sdk)
+- [Ruby SDK](https://github.com/generatepdfs/ruby-sdk)
+- [Python SDK](https://github.com/generatepdfs/python-sdk)
 
 Each SDK includes helper methods for sending HTML, checking responses and saving the resulting PDF.
 
